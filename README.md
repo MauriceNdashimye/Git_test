@@ -1,3 +1,2 @@
-# git_test
-odin lesson repo
-Hello Odin!
+# Odin recipes
+A simple website built using only html blocks to learn the basics of html.
